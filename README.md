@@ -1,7 +1,7 @@
 
 
 ## Getting Started
-![alt text](https://github.com/plewfx/saas/public/preview.png?raw=true)
+![alt text](https://github.com/plewfx/saas-dev/blob/main/public/preview.png)
 Live on https://saas-dev-theta.vercel.app/
 
 First, run the development server:
