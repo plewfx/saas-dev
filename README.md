@@ -1,8 +1,8 @@
-![Preview](https://saas-dev-theta.vercel.app/preview.png)
 
-Live on https://saas-dev-theta.vercel.app/
 
 ## Getting Started
+![Preview](/preview.png)
+Live on https://saas-dev-theta.vercel.app/
 
 First, run the development server:
 
